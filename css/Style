@@ -8,9 +8,9 @@
   margin-top: 60px;
 }
 
-/* Container content spacing */
-.container h1 {
-  margin-top: 60px;
+/* Image spacing */
+.d-block.w-100 {
+  margin-bottom: 40px;
 }
 
 /* Footer inner content */
