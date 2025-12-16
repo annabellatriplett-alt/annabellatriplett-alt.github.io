@@ -8,6 +8,11 @@
   margin-top: 60px;
 }
 
+/* Container content spacing */
+.container h1 {
+  margin-top: 60px;
+}
+
 /* Footer inner content */
 .custom-footer .footer-content {
   max-width: 1100px;
