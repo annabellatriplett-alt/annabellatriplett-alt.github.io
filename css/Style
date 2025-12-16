@@ -1,7 +1,7 @@
 /* —— Base Footer Styles —— */
 .custom-footer {
   background-color: #63cef2;       /* light blue background */
-  color: #f0f0f0;                /* light text */
+  color: #119bc9;                /* light text */
   text-align: center;
   padding: 30px 20px;
   font-family: Arial, sans-serif;
