@@ -9,9 +9,10 @@
 }
 
 /* Image spacing */
-.d-block.w-100 {
-  margin-bottom: 100px;
+img {
+  margin-bottom: 20px;
 }
+
 
 /* Footer inner content */
 .custom-footer .footer-content {
